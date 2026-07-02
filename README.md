@@ -294,19 +294,3 @@ If this repository is useful for your research, please cite:
 }
 ```
 
-Please update the BibTeX entry with the final venue, volume, pages, and DOI once available.
-
-## Acknowledgements
-
-This repository includes implementations or adapted components from several open-source medical image segmentation projects and baseline models. Please also cite the corresponding original papers and repositories when using those components.
-
-## Contact
-
-For questions, please contact:
-
-```text
-Ziyang Wang
-School of Computer Science and Digital Technologies, Aston University
-Email: z.wang47@aston.ac.uk
-Website: https://www.zywang.site/
-```
